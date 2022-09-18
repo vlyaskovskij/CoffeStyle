@@ -624,7 +624,7 @@ input[value="customer@coffestyle.io"] {
         padding-left:10px;
     }
     .menu__list-item {
-        padding: 5px 10px;
+        padding: 0px 10px;
         z-index: 10;
         
     }
@@ -707,7 +707,7 @@ input[value="customer@coffestyle.io"] {
         margin: 0 30px;
     }
     .showcase__link{
-        top: 23%;
+        display: none;
     }
     .desc-wrapper{
         margin: 10px 10px;
