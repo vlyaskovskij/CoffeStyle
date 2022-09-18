@@ -138,6 +138,7 @@ ul{
     text-align: center;
     color: #1D1F2E;
     text-transform: uppercase;
+	z-index:1;
 }
 .showcase__link-text{
     margin-top: -5px;
