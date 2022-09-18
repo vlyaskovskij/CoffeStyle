@@ -694,7 +694,7 @@ input[value="customer@coffestyle.io"] {
         left: 25%;
     }
     .menu__list {
-        right: 0%;
+        right: -5%;
     }
     .showcase__title{
         font-size: 20px;
