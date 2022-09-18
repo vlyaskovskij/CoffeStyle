@@ -740,6 +740,9 @@ input[value="customer@coffestyle.io"] {
     .block-stories_date{
         padding: 0px 100px;
     }
+    .subscribe-wrapper{
+	    justify-content: center;
+	}
     .subscribe__input {
         margin-left: 45px;
     }
