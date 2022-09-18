@@ -616,7 +616,7 @@ input[value="customer@coffestyle.io"] {
         flex-direction:column;
         position: absolute;
         background-color: #FFFFFF;
-        z-index: 2;
+        z-index: 5;
         right: -12%;
     }
     .menu__list-item + .menu__list-item{
