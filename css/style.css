@@ -744,7 +744,8 @@ input[value="customer@coffestyle.io"] {
         margin-left: 45px;
     }
     .subscribe__button{
-        margin-left: 100px;
+        margin-left: auto;
+	margin-right: auto;
         margin-bottom: 100px;
     }
     .footer-list{
